@@ -12,18 +12,18 @@
 
 ## Course description
 
+Learning and memory underlie who we are as individuals, how we have been shaped by our experience, and what we are capable of achieving in the future. This course will provide an introduction to the main theories and subfields of the psychological science of learning and memory.
+
+
 - Why do you forget some information immediately, but other things you can remember throughout your entire life?
 - When do people learn from their mistakes? 
 - How do you adapt to new and unfamiliar situations?
 - Can you learn to be a better learner?
 
-Learning and memory underlie who we are as individuals, how we have been shaped by our experience, and what we are capable of achieving in the future. This course will provide an introduction to the main theories and empirical foundations of the psychological science of learning and memory. 
-
-
 
 ## Materials
 
-- [GMM]: Gluck, M. A., Mercado, E., and Myers, C. E. *Learning and Memory: From Brain to Behavior (3rd edition).* Worth Publishers. New York.
+- [GMM]: Gluck, M. A., Mercado, E., and Myers, C. E. *Learning and Memory: From Brain to Behavior (3rd edition).* Worth Publishers. New York. [link](https://www.macmillanlearning.com/Catalog/product/learningandmemory-thirdedition-gluck)
 
 - Other assigned readings will be posted on the course Canvas page.
 
@@ -32,24 +32,24 @@ Learning and memory underlie who we are as individuals, how we have been shaped 
 
 Please note: This schedule, including the assigned supplemental readings, is tentative and subject to change (all changes will be posted online and announced in class). It is your responsibility to keep track of changes/additions through regular class attendance and use of Canvas. 
 
-| Date                      | Topic                                                                 |
-| ----------                | --------------------------------------------------------------------- | 
-| Week 1 (Jan. 9-11)        | Introduction                                                          |
-| Week 2 (Jan. 14-16)       | Neuroscience of Learning and Memory                                   |
-| Week 3 (Jan. 21-25)       | Habituation, Sensitization and Familiarity                            |
-| Week 4 (Jan. 28 - Feb. 1) | Conditioning                                                          |
-| Week 5 (Feb. 4 - 8)       | Concept Learning                                                      |
-| Week 6 (Feb. 11 - 15)     | Memory Systems; Episodic and Semantic Memory                          |
-| Week 7 (Feb. 18 - 22)     | Skill Memory                                                          |
-| Week 8 (Feb. 25 - Mar. 1) | Working Memory and Cognitive Control                                  |
-| Week 9 (Mar. 11 - 15)     | Statistical Learning                                                  |
-| Week 10 (Mar. 18 - 22)    | Emotional Influences                                                  |
-| Week 11 (Mar. 25 - 29)    | Social Learning                                                       |
-| Week 12 (April 1 - 5)     | Development and Aging                                                 |
-| Week 13 (April 8 - 12)    | Clinical Perspectives on Learning and Memory                          |
-| Week 14 (April 15 - 17)   | Cultural Perspectives                                                 |
-| Week 15 (April 22 - 26)   |                                                                       |
-| Week 16 (April 29)        |                                                                       |
+| Date                      | Topic                                                                 |   |
+| ----------                | --------------------------------------------------------------------- |   |
+| Week 1 (Jan. 9-11)        | Introduction to the course                                            |   |
+| Week 2 (Jan. 14-16)       | Neuroscience of Learning and Memory                                   |   |
+| Week 3 (Jan. 21-25)       | Habituation, Sensitization and Familiarity                            |   |
+| Week 4 (Jan. 28 - Feb. 1) | Conditioning                                                          |   |
+| Week 5 (Feb. 4 - 8)       | Concept Learning                                                      |   |
+| Week 6 (Feb. 11 - 15)     | Memory Systems; Episodic and Semantic Memory                          |   |
+| Week 7 (Feb. 18 - 22)     | Skill Memory                                                          |   |
+| Week 8 (Feb. 25 - Mar. 1) | Working Memory and Cognitive Control                                  |   |
+| Week 9 (Mar. 11 - 15)     | Statistical Learning                                                  |   |
+| Week 10 (Mar. 18 - 22)    | Expertise                                                             |   |
+| Week 11 (Mar. 25 - 29)    | Social Learning                                                       |   |
+| Week 12 (April 1 - 5)     | Emotional Influences                                                  |   |
+| Week 13 (April 8 - 12)    | Development and Aging                                                 |   |
+| Week 14 (April 15 - 17)   | Clinical Perspectives                                                 |   |
+| Week 15 (April 22 - 26)   | Cultural Perspectives: Learning and Memory in Context                 |   |
+| Week 16 (April 29)        |                                                                       |   |
 
 
 
