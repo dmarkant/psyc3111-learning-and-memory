@@ -23,7 +23,7 @@ Learning and memory underlie who we are as individuals, how we have been shaped 
 
 ## Materials
 
-- [GMM]: Gluck, M. A., Mercado, E., and Myers, C. E. *Learning and Memory: From Brain to Behavior (3rd edition).* Worth Publishers. New York. - [link](https://www.macmillanlearning.com/Catalog/product/learningandmemory-thirdedition-gluck)
+- Gluck, M. A., Mercado, E., and Myers, C. E. Learning and Memory: From Brain to Behavior (3rd edition). Worth Publishers. New York. - [link](https://www.macmillanlearning.com/Catalog/product/learningandmemory-thirdedition-gluck)
 - Other assigned readings will be posted on the course Canvas page.
 
 
